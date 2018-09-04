@@ -8,8 +8,7 @@ Some digital image processing exercise It's focused on practicing using OpenCV l
 - **4-anisotropic-filter** - Implementation of Anisotropic filtering.
 - **5-discrete-fourier-transform** - Implementation of Discrete Fourier Transform function and it's phase and power.
 - **6-inverse-discrete-fourier-transform** - Implementation of Inverse Discrete Fourier Transform function, used on top of previous implementation of DFT.
-- **7-dft-filters** - Usage of DFT and IDFT to implement high/low pass filters and straight line reduction filters.
-- **8-geometric-distortion** - Implementation of geometric distortion removal.
+- **7-geometric-distortion** - Implementation of geometric distortion removal.
 
 ## Requirements
 This project is using shared libraries, so you need to have these installed on your computer.
